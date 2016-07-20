@@ -1,0 +1,21 @@
+div:not(.grande)
+{
+	width: 100px;
+	height: 100px;
+	background: orange;
+}
+.caja{
+	display: inline-block;
+}
+.grande
+{
+	background: black;
+	padding: 5px;
+	width: 370px;
+}
+div:not(.inline)
+{
+	margin: 10px;
+}
+
+/* practica mas */
